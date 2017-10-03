@@ -1,0 +1,50 @@
+html {
+  background-color: #fdf6e3;
+}
+
+h1, footer {
+  font-size: 1.5rem;
+}
+
+ul  nav {
+  font-family: sans-serif;
+}
+
+.logo {
+  text-transform: uppercase;
+}
+
+.wrapper {
+  background-color: #eee8d5;
+}
+
+#contents {
+  color: #93alal;
+}
+#favs {
+  color: #93alal;
+}
+#facts{
+  color: #93alal;
+}
+#types {
+  color: #93alal;
+}
+
+.wrapper div .dfn:first-child{
+  background-color: #b58900;
+}
+
+h2 div + strong {
+  color: #fff;
+}
+
+
+
+ul a {
+  background-color: #719e07;
+}
+
+.no-highlight:first-child; {
+  background-color: none;
+}
