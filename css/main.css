@@ -6,7 +6,7 @@ footer {
   font-size: 1.5rem;
 }
 
-.logo {
+header {
   font-size: 1.5rem;
 }
 
@@ -28,7 +28,7 @@ nav ul {
 .favs {
   color: #93a1a1;
 }
-.facts{
+.facts {
   color: #93a1a1;
 }
 .types {
@@ -39,13 +39,11 @@ nav ul {
   background-color: #b58900;
 }
 
-
-
 p + strong {
   color: #fff;
 }
 
-ul  a>.no-highlight {
+ul  a {
   background-color: #719e07;
 }
 
