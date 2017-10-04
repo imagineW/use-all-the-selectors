@@ -50,7 +50,7 @@ p + strong {
   background-color: #719e07;
 }
 
-h2 + ul:nth-child(3) {
+h2 + ul:last-child {
   background-color: #2694d8;
 }
 
