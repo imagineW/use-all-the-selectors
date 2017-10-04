@@ -52,3 +52,15 @@ ul  a {
 h2 ul: nth-child(3) {
   background-color: #2694d8
 }
+
+ol: first-child {
+  color: #719e47;
+}
+
+ol: last-child {
+  color: #2aa198
+}
+
+.types li {
+  background-color: #657ba3;
+}
