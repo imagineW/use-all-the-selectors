@@ -6,7 +6,7 @@ h1, footer {
   font-size: 1.5rem;
 }
 
-ul  nav {
+nav ul {
   font-family: sans-serif;
 }
 
@@ -19,16 +19,16 @@ ul  nav {
 }
 
 #contents {
-  color: #93alal;
+  color: #93a1a1;
 }
 #favs {
-  color: #93alal;
+  color: #93a1a1;
 }
 #facts{
-  color: #93alal;
+  color: #93a1a1;
 }
 #types {
-  color: #93alal;
+  color: #93a1a1;
 }
 
 .wrapper div .dfn:first-child{
@@ -39,12 +39,10 @@ h2 div + strong {
   color: #fff;
 }
 
-
-
 ul a {
   background-color: #719e07;
 }
 
-.no-highlight:first-child; {
-  background-color: none;
+.no-highlight: first-child; {
+  background-color: #719e07;
 }
