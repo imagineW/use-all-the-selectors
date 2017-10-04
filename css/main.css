@@ -45,15 +45,11 @@ p + strong {
   color: #fff;
 }
 
-ul  a {
+ul  a>.no-highlight {
   background-color: #719e07;
 }
 
-.no-highlight h1,h2:nth-child(2,6,7) {
-  background-color: none;
-}
-
-h2 ul:nth-child(3) {
+h2 + ul:nth-child(3) {
   background-color: #2694d8;
 }
 
