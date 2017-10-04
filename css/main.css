@@ -46,7 +46,7 @@ p + strong {
   color: #fff;
 }
 
-ul  a {
+.no-highlight > ul + a {
   background-color: #719e07;
 }
 
