@@ -45,10 +45,10 @@ ul  a {
   background-color: #719e07;
 }
 
-.no-highlight {
+.no-highlight h1,h2 nth-child(2,6,7) {
   background-color: none;
 }
 
-ul li: nth-child(3) {
+h2 ul: nth-child(3) {
   background-color: #2694d8
 }
