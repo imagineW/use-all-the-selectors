@@ -65,14 +65,14 @@ ol:last-child {
   color: #2aa198;
 }
 
-.types li:nth-child(odd) {
+.types:nth-child(odd) {
   background-color: #657ba3;
 }
 
-.types li:nth-child(even) {
+.types:nth-child(even) {
   background-color: #586e75;
 }
 
-.types li:nth-child(3n) {
+.types:nth-child(3n) {
   background-color: #d04b16;
 }
