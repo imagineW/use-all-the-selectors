@@ -31,15 +31,17 @@ nav ul {
   color: #93a1a1;
 }
 
-.wrapper div .dfn:first-child{
+.wrapper: first-child {
   background-color: #b58900;
 }
 
-h2 div + strong {
+
+
+p + strong {
   color: #fff;
 }
 
-ul a {
+ul  a {
   background-color: #719e07;
 }
 
