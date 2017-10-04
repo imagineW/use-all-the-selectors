@@ -50,7 +50,7 @@ ul  a {
 }
 
 h2 ul: nth-child(3) {
-  background-color: #2694d8
+  background-color: #2694d8;
 }
 
 ol: first-child {
@@ -58,9 +58,13 @@ ol: first-child {
 }
 
 ol: last-child {
-  color: #2aa198
+  color: #2aa198;
 }
 
 .types li: nth-child(odd) {
   background-color: #657ba3;
+}
+
+.types li: nth-child(even) {
+  background-color: #586e75;
 }
