@@ -10,7 +10,7 @@ header {
   font-size: 1.5rem;
 }
 
-nav ul {
+ul > nav {
   font-family: sans-serif;
 }
 
@@ -42,15 +42,15 @@ nav ul {
   background-color: #b58900;
 }
 
-main + div + p + strong {
+.dfn > strong {
   color: #fff;
 }
 
-.no-highlight {
+a:not(.no-highlight) {
   background-color: #719e07;
 }
 
-h2 + ul:last-child {
+[rel="external"] {
   background-color: #2694d8;
 }
 
@@ -62,14 +62,14 @@ ol li:last-child {
   color: #2aa198;
 }
 
-.types:nth-child(odd) {
+.types li:nth-child(odd) {
   background-color: #657ba3;
 }
 
-.types:nth-child(even) {
+.types li:nth-child(even) {
   background-color: #586e75;
 }
 
-.types:nth-child(3n) {
+.types li:nth-child(3n) {
   background-color: #d04b16;
 }
